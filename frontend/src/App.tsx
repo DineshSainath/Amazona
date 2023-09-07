@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="d-flex flex-column vh-100">
       <header>
-        <Navbar bg="dark" variant="dark" expand="large">
+        <Navbar bg="dark" variant="dark" expand="lg">
           <Container>
             <Navbar.Brand>Amazona</Navbar.Brand>
           </Container>
